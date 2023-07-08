@@ -1,0 +1,12 @@
+.banner{
+    background-image: url("./banner2.jpg");
+
+}
+
+.bannerContent{
+    height: 400;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25;
+    justify-content: space-around;
+}
