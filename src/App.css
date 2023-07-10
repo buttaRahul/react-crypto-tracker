@@ -27,3 +27,18 @@ a{
 .dataRow:hover{
     background-color: midnightblue;
 }
+
+/* .pagination{
+    .MuiPaginationItem-root{
+        color: red;
+
+    } */
+/* } */
+
+/* .pagination:MuiPaginationItem-root{
+    color: red;
+} */
+
+Pagination:MuiPaginationItem{
+    color: red;
+}
