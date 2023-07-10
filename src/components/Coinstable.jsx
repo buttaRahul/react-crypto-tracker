@@ -77,7 +77,7 @@ const Coinstable = () => {
                                         }}
 
                                         key={head}
-                                        align={head === "Coin" ? "" :"right"}
+                                        align={head === "Coin" ? "left" :"right"}
                                         >
                                             {head}
 
