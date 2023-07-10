@@ -20,3 +20,10 @@ a{
     color: whitesmoke;
     min-height: 100vh;
 }
+
+.dataRow{
+    background-color: '#16171a';
+}
+.dataRow:hover{
+    background-color: midnightblue;
+}
